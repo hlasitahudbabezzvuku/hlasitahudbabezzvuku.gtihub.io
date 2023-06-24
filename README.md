@@ -1,2 +1,2 @@
 # hlasitahudbabezzvuku.gtihub.io
-Please do not distribute any parts of this web-site.
+Please do not redistribute any part of this website.
